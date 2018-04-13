@@ -1,6 +1,5 @@
 ---
-templateKey: 'product-page'
-path: /products
+templateKey: product-page
 title: Our Coffee
 image: /img/jumbotron.jpg
 heading: What we offer
@@ -81,7 +80,7 @@ pricing:
       items:
         - 3 lbs of coffee per month
         - Green or roasted beans"
-        - One or two varieties of beans"
+        - One or two varieties of beans
       plan: Small
       price: '50'
     - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
@@ -99,3 +98,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
